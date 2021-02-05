@@ -1,0 +1,2 @@
+1|Nguyen|An|2003|Ha Noi|1231231231|annguyen@fpt.com.vn|2|2|ssg
+2|Binh|Nguyen|2005|Hoang Mai|1231312312|binhnuguyen@afg.cmg.vn|1|2005|good|FPT
